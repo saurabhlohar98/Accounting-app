@@ -1,2 +1,3 @@
 # Accounting-app
-I'm created a simple accounting Ledger App 
+I'm created a simple accounting Ledger Application
+
